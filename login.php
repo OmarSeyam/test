@@ -1,2 +1,3 @@
 <?php
-echo 'life is bad';
+echo 'life bad';
+echo 'chose ur way';
