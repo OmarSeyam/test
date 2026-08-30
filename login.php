@@ -1,2 +1,2 @@
 <?php
-echo 'life is bad';
+echo 'life is good';
